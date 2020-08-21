@@ -92,7 +92,9 @@ top: 30px;
   width: 25%;
   float: left;
   margin-right: 30px;
-
+{
+  .gear-description {
+  padding-bottom: 20px;
 }
 .computer {
   width: 25%;
