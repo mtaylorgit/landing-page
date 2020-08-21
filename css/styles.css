@@ -32,7 +32,7 @@ h2 {
 
 hr {
   border: dotted #EAF6F6 6px;
-  border-bottom: none;
+  border-bottom: 0;
   width: 4%;
   margin: 100px auto;
 }
@@ -85,15 +85,16 @@ bottom: 300px;
 .bird {
 position: absolute;
 right: 300px;
-top: 30px;
+top: 40px;
 
 }
 .gear {
   width: 25%;
   float: left;
   margin-right: 30px;
-{
-  .gear-description {
+}
+
+.gear-description {
   padding-bottom: 20px;
 }
 .computer {
